@@ -68,7 +68,7 @@ function Home() {
           Order your favorite books directly via WhatsApp — simple, fast, and secure!
         </p>
         <a
-          href="https://wa.me/923264439348?text=Hello%20BookBazar_Online!%20I%20would%20like%20to%20order%20a%20book."
+          href="https://wa.me/923706518163?text=Hello%20BookBazar_Online!%20I%20would%20like%20to%20order%20a%20book."
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-white text-blue-700 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition shadow-md"
